@@ -1,4 +1,4 @@
-## Olá ! Me cham José Maurício ✋
+## Olá ! Me chamo José Maurício ✋
 
 <div align="left">
   <a href="https://github.com/Mauricio-Piron">
@@ -24,6 +24,7 @@
 </div>
 
  ##
+  
  <p>Atualmente trabalho com linguagem Natural/Adabas. </p>
  <p>Cursando JavaFullStack.</p>
  <p>Em constante desenvolvimento. </p>
