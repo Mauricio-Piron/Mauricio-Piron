@@ -1,4 +1,4 @@
-## Olá ! Me chamo José Maurício ✋
+## Olá ! Me chamo José Maurício 👋
 
 <div align="left">
   <a href="https://github.com/Mauricio-Piron">
