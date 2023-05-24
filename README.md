@@ -1,5 +1,8 @@
 ## Olá ! Me chamo José Maurício 👋
 
+#  <p>Sou Analista de Sistema, atualmente trabalho com a linguagem Natural/Mainframe/Adabas.
+   <p>Estou cursando Java FullStack na EBAC - Escola Britânica de Artes Criativas, com o objetivo de aprender uma nova linguagem e também aprimorar os conhecimentos. 🌱
+     
 <div align="left">
   <a href="https://github.com/Mauricio-Piron">
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Mauricio-Piron&theme=blue-green"/>
@@ -25,6 +28,3 @@
 
  ##
   
- <p>Atualmente trabalho com linguagem Natural/Adabas. </p>
- <p>Cursando JavaFullStack.</p>
- <p>Em constante desenvolvimento. </p>
