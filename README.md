@@ -1,6 +1,7 @@
 ## Olá ! Me chamo José Maurício 👋
 
-#  <p>Sou Analista de Sistema, atualmente trabalho com a linguagem Natural/Mainframe/Adabas.
+### 
+   Sou Analista de Sistema, atualmente trabalho com a linguagem Natural/Mainframe/Adabas.
    <p>Estou cursando Java FullStack na EBAC - Escola Britânica de Artes Criativas, com o objetivo de aprender uma nova linguagem e também aprimorar os conhecimentos. 🌱
      
 <div align="left">
