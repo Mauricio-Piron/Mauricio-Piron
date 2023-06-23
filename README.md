@@ -6,8 +6,8 @@
      
 <div align="left">
   <a href="https://github.com/Mauricio-Piron">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Mauricio-Piron&theme=blue-green"/>
-  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mauricio-Piron&theme=blue-green"/>
+  <img width="380px" src="https://github-readme-stats.vercel.app/api?username=Mauricio-Piron&theme=blue-green"/>
+  <img width="240px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mauricio-Piron&theme=blue-green"/>
 </div>
 
 <div style="display: inline_block"><br>
