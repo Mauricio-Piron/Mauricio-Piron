@@ -19,9 +19,6 @@
 </div>
 
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Piron&exclude_repo=github.com/Mauricio-Piron/Projetos-Front-End-Ebac)
-
-##
 
 <div> 
   <a href="https://instagram.com/mauriciopiron" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
