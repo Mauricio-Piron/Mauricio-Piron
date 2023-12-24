@@ -19,8 +19,8 @@
 </div>
 
 ##
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Piron&exclude_repo=github.com/Mauricio-Piron/Projetos-Front-End-Ebac)
+
 ##
 
 <div> 
