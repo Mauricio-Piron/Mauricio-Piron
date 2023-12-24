@@ -20,6 +20,10 @@
 
 ##
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Mauricio-Piron/Projetos-Front-End-Ebac)
+
+##
+
 <div> 
   <a href="https://instagram.com/mauriciopiron" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/Mauricio-Piron#6697" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
