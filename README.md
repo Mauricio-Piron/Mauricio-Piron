@@ -20,8 +20,7 @@
 
 ##
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Mauricio-Piron/Projetos-Front-End-Ebac)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Piron&exclude_repo=github.com/Mauricio-Piron/Projetos-Front-End-Ebac)
 ##
 
 <div> 
