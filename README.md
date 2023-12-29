@@ -2,7 +2,7 @@
 
 ### 
    Sou Analista de Sistema, atualmente trabalho com a linguagem Natural/Adabas.
-   <p>Estou cursando Java FullStack na EBAC - Escola Britânica de Artes Criativas, com o objetivo de aprender uma nova linguagem e também aprimorar os conhecimentos. 🌱
+   <p>Estou cursando Java FullStack na EBAC - Escola Britânica de Artes Criativas. 🌱
      
 <div align="left">
   <a href="https://github.com/Mauricio-Piron">
